@@ -80,3 +80,9 @@ El wrapper Android (`android/`) usa:
 ## Licencia
 
 MIT
+
+## :bust_in_silhouette: Desarrollador
+
+- **Nombre:** Francisco Blanco
+- **Web:** https://franciscoblanco.vercel.app/
+- **Email:** blancofrancisco34@gmail.com
