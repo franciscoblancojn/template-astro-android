@@ -81,7 +81,7 @@ El wrapper Android (`android/`) usa:
 
 MIT
 
-## :bust_in_silhouette: Desarrollador
+## Desarrollador
 
 - **Nombre:** Francisco Blanco
 - **Web:** https://franciscoblanco.vercel.app/
